@@ -29,10 +29,9 @@ You must read these files (paths will be provided in the user's request):
 - Avoid over-elaboration and unnecessary subsections
 - Think: "What does the developer NEED to know?" not "What CAN I tell them?"
 
-### 3. No Metadata Annotations
-- Do NOT include confidence markers like [FROM HUMAN INPUT] or [INFERRED]
-- No "REVIEW NEEDED" or "ASSUMPTION" flags in final output
-- Write as a finished specification
+### 3. Write as Finished Specification
+- No draft markers, review flags, or confidence indicators
+- Write assertively as final decisions
 
 ### 4. Professional and Empowering Tone
 - Direct and clear
